@@ -5,7 +5,7 @@ package my.sortingalgorithms.java;
 public class InsertionSort {
     
     public static void main (String[] args) {
-        int arr[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
+        int arr[] = {13, 9, 21, 1, 6, 28, 29, 83, 24, 58};
         
         for (int i = 1; i <arr.length; i++) {
             int key = arr[i];
