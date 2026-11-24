@@ -5,7 +5,7 @@ package my.sortingalgorithms.java;
 public class SelectionSort {
     
      public static void main(String[] args) {
-        int arr[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1} ;
+        int arr[] = {21, 1, 8, 16, 12, 51, 44, 24, 22, 10} ;
         
         for (int i = 0; i < arr.length - 1; i++) {
             int minIndex = i;
